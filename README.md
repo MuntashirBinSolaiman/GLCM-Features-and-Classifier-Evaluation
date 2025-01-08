@@ -48,5 +48,3 @@ The purpose of this project is to:
 1. **Enhance Image Classification**: By leveraging GLCM statistics, the project extracts texture-based features, which are useful for image-based tasks.  
 2. **Simplify Workflow**: Modularized methods enable easy experimentation with different features and parameters.  
 3. **Provide Flexibility**: Supports customization of parameters like `n_neighbors` for KNN and `kernel` for SVM, empowering users to optimize classification accuracy for their datasets.  
-
-This repository is ideal for anyone learning about GLCM feature extraction and classifier evaluation, or for researchers seeking a starting point for texture-based image classification tasks.  
